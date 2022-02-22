@@ -1,2 +1,2 @@
 # encrypt
-Little aes256 tool
+Little sha256 tool
